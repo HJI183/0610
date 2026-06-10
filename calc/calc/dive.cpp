@@ -1,6 +1,6 @@
 #include "dive.h"
 
-int dive(int x, int c)
+int dive(int x, int cc)
 {
-	return x-c;
+	return x-cc;
 }
