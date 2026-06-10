@@ -1,6 +1,7 @@
 #include "mul.h"
 
-int mul(int a, int b)
+
+int mul(int a, int c)
 {
-	return a/b;
+	return a-c;
 }
