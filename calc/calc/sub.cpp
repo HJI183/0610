@@ -1,6 +1,6 @@
 #include "sub.h"
 
-int sub(int x, int y)
+int sub(int C, int D)
 {
 	return 0;
 }
