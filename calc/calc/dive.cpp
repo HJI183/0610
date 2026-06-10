@@ -2,5 +2,5 @@
 
 int dive(int x, int y)
 {
-	return xy;
+	return x-y;
 }
